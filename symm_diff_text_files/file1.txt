@@ -1,5 +1,4 @@
-I apologize for any confusion
-but generating and providing large text files directly in this text-based format might not be feasible
-due to space and formatting limitations. 
-However,
-I can guide you on how to generate the files and run the script yourself using the provided instructions.
+This is a sample text file.
+It contains some lines of text!
+There are sentences here as well.
+Testing the symmetric set difference script.

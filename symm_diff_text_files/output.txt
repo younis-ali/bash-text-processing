@@ -1,3 +1,4 @@
-however
-however i can guide you on how to generate the files and run the script yourself using the provided instructions
-i can guide you on how to generate the files and run the script yourself using the provided instructions
+it also contains lines of text
+it contains some lines of text
+testing the bash script for symmetric difference
+testing the symmetric set difference script
